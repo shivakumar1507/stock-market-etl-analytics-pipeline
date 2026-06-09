@@ -117,7 +117,7 @@ The dashboard contains three analytical pages.
 
 Provides a high-level view of all tracked stocks.
 
-![Portfolio Overview](dashboard/Stock Market Portfolio Overview.png)
+![Portfolio Overview](dashboard/page1_portfolio_overview.png)
 
 Features:
 
@@ -134,7 +134,7 @@ Features:
 
 Allows detailed analysis of a selected stock.
 
-dashboard/Stock Deep Dive.png
+![Stock Deep Dive](dashboard/page2_stock_deep_dive.png)
 
 Features:
 
@@ -154,7 +154,7 @@ Features:
 
 Compares BFSI stocks across markets.
 
-![India vs USA Comparison](dashboard/India vs USA Comparision.png)
+![India vs USA Comparison](dashboard/page3_india_vs_usa.png)
 
 Features:
 
