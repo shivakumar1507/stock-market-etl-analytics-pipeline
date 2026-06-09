@@ -134,7 +134,7 @@ Features:
 
 Allows detailed analysis of a selected stock.
 
-![Stock Deep Dive](dashboard/Stock Deep Dive.png)
+dashboard/Stock Deep Dive.png
 
 Features:
 
